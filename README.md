@@ -13,7 +13,7 @@
 
 ## Visual Presentation
 
-![Professional Readme Generator Demo](./screenshot.jpg)
+![Professional Readme Generator Demo](./screenshot.JPG)
 
 ![The full movie file showing functionality of the application can be found here](https://)
 
