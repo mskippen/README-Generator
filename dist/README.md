@@ -4,7 +4,7 @@ Readme Generator
 
 ## Description
 
-This is an application that will generate a README.md file
+This app will generate a README.md file
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ npm install
 
 ## Usage
 
-Run node index.js
+Unsure
 
 ## Contributing
 
-Unsure
+Who has contributed and what has contributed to your project
 
 ## License
 
@@ -32,7 +32,7 @@ MIT ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
 
 ## Tests
 
-Run Test
+type in node index.js for your testing until you are happy with the final result
 
 ## Questions
 

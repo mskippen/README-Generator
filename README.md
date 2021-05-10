@@ -13,9 +13,9 @@
 
 ## Visual Presentation
 
-![Professional Readme Generator Demo](./screenshot.jpg)
+![Professional Readme Generator image](./screenshot.JPG)
 
-![The full movie file showing functionality of the application can be found here](https://)
+![The full movie file showing functionality of the application can be found here](<iframe src="https://drive.google.com/file/d/1siFcS7HfQA8F3GaaWrQI6Ge_Wt5dnjMl/preview" width="640" height="480"></iframe>)
 
 ## Description
 
