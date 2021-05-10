@@ -15,7 +15,7 @@
 
 ![Professional Readme Generator image](./screenshot.JPG)
 
-![The full movie file showing functionality of the application can be found here through google drive](https://drive.google.com/drive/folders/1DK-jguR8tI7MdttriiKOIqJm2RFrNELw?usp=sharing)
+The full movie file showing functionality of the application can be found here through google drive: (<https://drive.google.com/drive/folders/1DK-jguR8tI7MdttriiKOIqJm2RFrNELw?usp=sharing>)
 
 ## Description
 
