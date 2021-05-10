@@ -13,11 +13,7 @@
 
 ## Visual Presentation
 
-<<<<<<< HEAD
 ![Professional Readme Generator image](./screenshot.JPG)
-=======
-![Professional Readme Generator Demo](./screenshot.JPG)
->>>>>>> 3d9806c9427a2f76be9120c539f3d0a204ca7ad2
 
 ![The full movie file showing functionality of the application can be found here through google drive](https://drive.google.com/drive/folders/1DK-jguR8tI7MdttriiKOIqJm2RFrNELw?usp=sharing)
 
